@@ -28,13 +28,13 @@ Esta herramienta está diseñada para proporcionar una evaluación inicial del e
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/career-path-finder.git
-    ```
+   git clone https://github.com/BenjaminRC-TESCH/EmotionExplorer-Java-15.git
+    ``` 
    
 2. Compila y ejecuta la aplicación:
    
    ```bash
-   cd EmotionExplorer/src/test/
+   cd EmotionExplorer-Java-15/src/test/
    ```
 
 3. Compile and run the application:
